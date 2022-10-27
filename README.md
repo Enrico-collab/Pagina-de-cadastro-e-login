@@ -5,7 +5,7 @@ Foi criada duas paginas com esse foco utilizando alguns componentes de layout do
 
 Foi criada um tela de login e uma tela de cadastro, onde da para navegar nas mesmas.
 
-Link para visualização: https://pagina-de-cadastro-e-login.netlify.app
+Link para visualização: https://tela-cadastro-e-login.netlify.app/
 
 
 # Registration and Login Page
@@ -15,4 +15,4 @@ I created two pages with this focus using some bootstrap layout components worki
 
 A login screen and a registration screen were created, where you can browse them.
 
-Link to view: https://pagina-de-cadastro-e-login.netlify.app
+Link to view: https://tela-cadastro-e-login.netlify.app/
